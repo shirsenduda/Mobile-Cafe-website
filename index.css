@@ -226,7 +226,6 @@ body{
         width: 100%;
         height: 345px;
         position: relative;
-        overflow-x: auto;
         padding-left: 6px;
         padding-top: 120px;
         display: flex;
